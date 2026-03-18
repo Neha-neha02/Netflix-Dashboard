@@ -36,12 +36,6 @@ The objective of this project is to:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Netflix Dashboard](dashboard.png)
-
----
-
 ## 🚀 Conclusion
 This project helped in learning Power BI dashboard creation and data visualization techniques. It also improved my ability to analyze and present data effectively.
 
